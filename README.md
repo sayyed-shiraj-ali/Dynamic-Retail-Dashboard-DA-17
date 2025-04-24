@@ -59,6 +59,7 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 1. **KPIs** - Total Sales, Total Profit, Quantity, No. of Orders, Profit Margin
 
+![image](https://github.com/user-attachments/assets/2893426d-df70-4a96-8cb4-bed20d0233b5)
 
 
 
